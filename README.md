@@ -20,4 +20,4 @@ Filters for genre, region and publisher name.
 - West was the top-selling region
 - History and Sci-Fi were the top-selling genres
 - Weekly sales peaked around weeks 10 and 12
-<img width="1712" height="901" alt="image" src="https://github.com/user-attachments/assets/713b0113-0148-46bf-a99a-e021b6b864bf" />
+
